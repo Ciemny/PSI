@@ -1,0 +1,1 @@
+Zaimplementuj klasę FunctionCounter ze statyczną funkcją decore(f). Przy jej pomocy klasa ma zliczać ilości wywołań poszczególnych funkcji. Ponadto FunctionCounter ma oferować statyczną metodę count(nazwa_funkcji) zwracającą liczbę wywołań danej funkcji.

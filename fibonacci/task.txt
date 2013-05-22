@@ -1,0 +1,1 @@
+Zaimplementuj funkcje fib(N) zwracającą iterator do ciągu pierwszych N wyrazów ciągu Fibonacciego (F_0 = 0, F_1 = 1).

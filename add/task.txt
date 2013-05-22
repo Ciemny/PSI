@@ -1,0 +1,1 @@
+Zaimplementuj funkcje add(a, b) zwracającą wynik dodawania a i b.

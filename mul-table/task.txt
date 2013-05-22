@@ -1,0 +1,1 @@
+Zaimplementuj funkcje mul_table(n, m) zwracającą tabliczkę mnożenia wielkości n x m, tj. tablicę T[n][m] taką, ze T[i][j] = i*j

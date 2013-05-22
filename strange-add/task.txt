@@ -1,0 +1,5 @@
+Zaimplementuj klasę strange_number. Powinna ona przechowywać liczbę całkowitą daną w konstruktorze (domyślnie 0). Ponadto rzutowanie jej na stringa powinno działać w sposób naturalny. Odwołanie A[1] powinno zwrócić przechowywaną liczbę, A[-1] jej negację. A+B powinno zwrócić liczbę powstałą poprzez konkatenację liczby z A i z B, np:
+A = strange_number(12)
+B = strange_number(28)
+C = A+B
+str(C) == '1228'

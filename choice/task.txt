@@ -1,0 +1,5 @@
+Zaimplementuj funkcje choice(a) która zwraca:
+2*a + 1, jeśli a jest intem
+a/2, jeśli a jest floatem
+ilość elementów jeśli a jest listą
+"pomidor", jeśli a jest stringiem

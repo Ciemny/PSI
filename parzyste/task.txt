@@ -1,0 +1,1 @@
+Zaimplementuj funkcje parzyste(N) zwracającą listę N pierwszych naturalnych liczb parzystych.

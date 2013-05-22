@@ -1,0 +1,2 @@
+def choice(a):
+    pass

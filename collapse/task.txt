@@ -1,0 +1,1 @@
+Zaimplementuj funkcje collapse(f, g) zwracającą funkcję f(g).

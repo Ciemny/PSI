@@ -1,0 +1,1 @@
+Zaimplementuj funkcje rot13(tekst) zwracająca wejściowe zdanie szyfrem rot13. Zdanie składa się z małych liter alfabetu angielskiego, spacji i znaków interpunkcyjnych.
